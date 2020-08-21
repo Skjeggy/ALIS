@@ -1,0 +1,24 @@
+{
+    "id": "C330CD1B",
+    "path": "~/webprojects/ALIS/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "3913818908",
+    "contents": "",
+    "dirty": false,
+    "created": 1597963261522.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "53,53",
+        "scrollLine": "41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598003402,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598003402106,
+    "read_only": false,
+    "read_only_alternatives": []
+}
