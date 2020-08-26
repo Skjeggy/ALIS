@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
@@ -44,11 +49,6 @@
   
   <url>
     <loc>/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
@@ -78,11 +78,6 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
@@ -98,7 +93,22 @@
   </url>
   
   <url>
+    <loc>/categories/oppstart/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spesialisering/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
@@ -108,20 +118,15 @@
   </url>
   
   <url>
-    <loc>/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>/author/john-doe/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>

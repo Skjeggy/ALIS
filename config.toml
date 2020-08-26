@@ -134,40 +134,40 @@ name = "Hjem"
 URL = "/"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "Om oss"
-URL = "about"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "Om oss"
+#URL = "about"
+#weight = 2
 
 [[Languages.en.menu.main]]
 name = "Prosjekter"
 URL = "project"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "Tjenester"
-URL = "service"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "Tjenester"
+#URL = "service"
+#weight = 4
 
 [[Languages.en.menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 5
 
-[[Languages.en.menu.main]]
-weight = 6
-name = "Mer info"
-hasChildren = true
+#[[Languages.en.menu.main]]
+#weight = 6
+#name = "Mer info"
+#hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Mer info"
-  name = "Fastlegeordningen"
-  URL = "faq"
+#  [[Languages.en.menu.main]]
+#  parent = "Mer info"
+#  name = "Fastlegeordningen"
+#  URL = "faq"
 
-  [[Languages.en.menu.main]]
-  parent = "Mer info"
-  name = "Rapporter"
-  URL = "pricing"
+#  [[Languages.en.menu.main]]
+#  parent = "Mer info"
+#  name = "Rapporter"
+#  URL = "pricing"
   
 [[Languages.en.menu.main]]
 name = "Kontakt oss"
@@ -186,20 +186,20 @@ name = "Prosjekter"
 URL = "project"
 weight = 2
 
-[[Languages.en.menu.footer]]
-name = "Tjenester"
-URL = "service"
-weight = 3
+#[[Languages.en.menu.footer]]
+#name = "Tjenester"
+#URL = "service"
+#weight = 3
 
 #[[Languages.en.menu.footer]]
 #name = "Pricing"
 #URL = "pricing"
 #weight = 4
 
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+#[[Languages.en.menu.footer]]
+#name = "FAQ"
+#URL = "faq"
+#weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Kontakt oss"

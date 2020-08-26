@@ -3,7 +3,7 @@ bg_image: images/featue-bg.jpg
 category: UI/UX Design
 description: this is meta description
 draft: false
-image: images/portfolio/dest.jpg
+image: images/portfolio/work1.jpg
 information:
 - info: Jannie Kelonsky
   label: Client
@@ -17,14 +17,14 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: Test 1
 ---
-
-## Behance Website Redesign
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
 at provident soluta consequatur.
+
+## Behance Website Redesign
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.

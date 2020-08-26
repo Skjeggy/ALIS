@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: Vi sier gjerne hei!
+description: 
 draft: false
-title: Dropp innom!
+title: Kontakt oss
 ---

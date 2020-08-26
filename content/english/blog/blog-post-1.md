@@ -2,15 +2,14 @@
 author: John Doe
 bg_image: images/featue-bg.jpg
 categories:
-- Company News
+- Oppstart
 date: "2018-09-24T11:07:10+06:00"
 description: this is meta description
 draft: false
 image: images/blog/blog-post-1.jpg
 tags:
-- Advice
-- Technology
-title: How To Wear Bright Shoes
+- Spesialisering
+title: ALIS Kontor Sør, kick-off!!
 type: post
 ---
 

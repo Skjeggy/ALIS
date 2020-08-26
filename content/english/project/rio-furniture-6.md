@@ -17,7 +17,7 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: Test 6
 ---
 
 ## Behance Website Redesign
