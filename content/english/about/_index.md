@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: this is meta description
-draft: false
+description: Her kan du lese mer om oss.
 title: Om oss
+
 ---
